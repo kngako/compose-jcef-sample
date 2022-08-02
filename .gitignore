@@ -4,3 +4,5 @@ out
 target
 jcef-bundle
 release_info
+/.gradle/
+/build/
